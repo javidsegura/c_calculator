@@ -1,4 +1,4 @@
-# BASIC CALCULATOR
+# BASIC CALCULATOR WITH C
 
 <ul>
 <li>Arithmetic </li>
